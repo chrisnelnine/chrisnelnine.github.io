@@ -1,6 +1,6 @@
 ### chrisnelnine's GitHub Page
 
-...markdown
+...
 **This is chrisnelnine.**
 ...
 
